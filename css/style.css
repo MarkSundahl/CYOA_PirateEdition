@@ -6,32 +6,23 @@
   float: left;
   margin: 1%;
 }
-
-
 /* On mouse-over, add a deeper shadow */
-
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
-
-
 /* Add some padding inside the card container */
-
 .container {
   padding: 2px 16px;
 }
-
 body,
 html {
   height: 100%;
 }
-
 #blueDoor {
   float: left;
   display: none;
   height: 50%;
 }
-
 #redDoor
 {
   float: left;
@@ -40,12 +31,10 @@ html {
   height: 50%;
 }
 .item1{
-float: left;
+  float: left;
   margin: 5%;
-
 }
 .item2{
-float: right;
+  float: right;
   margin: 5%;
-
 }
