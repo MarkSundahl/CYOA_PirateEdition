@@ -39,3 +39,13 @@ html {
   display: none;
   height: 50%;
 }
+.item1{
+float: left;
+  margin: 5%;
+
+}
+.item2{
+float: right;
+  margin: 5%;
+
+}
